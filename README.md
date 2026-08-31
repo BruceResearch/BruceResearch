@@ -1,6 +1,6 @@
 ### Hi, I'm Qiran Jia 👋
 
-💻 I build statistical and machine learning methods — and the software that implements them — for integrative analysis of multi-omics bulk data, imaging data, and single-cell data
+💻 I build statistical and machine learning methods — and the software that implements them — for integrative analysis of bulk and single-cell multi-omics data, genetics data, 3D medical imaging data, and other high-dimensional, complex biomedical data
 
 🎓 Ph.D. candidate, Division of Biostatistics, Department of Population and Public Health Sciences, Keck School of Medicine of USC
 
