@@ -11,8 +11,10 @@
 #### Research interests
 - Integrative multi-omics and single-cell / spatial transcriptomics
 - Bayesian modeling and natural-gradient variational inference
-- Semi-supervised transfer learning and clustering for high-dimensional omics
-- Reproducible research software (R and Python)
+- Statistical Transfer Learning
+- 3D medical imaging data analysis
+- False discovery rate 
+
 
 #### Featured projects
 - [**LUCIDus3**](https://github.com/BruceResearch/LUCIDus3) — R package for latent unknown clustering that integrates multi-omics data (early / parallel / serial integration), continuously enhanced from the CRAN release.
