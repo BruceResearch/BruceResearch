@@ -11,9 +11,10 @@
 #### Research interests
 - Integrative multi-omics and single-cell / spatial transcriptomics
 - Bayesian modeling and natural-gradient variational inference
+- Model-based clustering
 - Statistical Transfer Learning
-- 3D medical imaging data analysis
-- False discovery rate 
+- 3D medical imaging
+- Multiple testing under dependence
 
 
 #### Featured projects
